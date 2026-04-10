@@ -14,7 +14,7 @@ export default function Hero() {
         </h1>
         
         <p className="text-slate-400 text-lg md:text-xl max-w-2xl mb-12 font-light leading-relaxed">
-          StartBox guides you from idea to launch with tools, templates, and support. Stop dreaming and start building with the neon-powered platform for modern founders.
+          StartnBox guides you from idea to launch with tools, templates, and support. Stop dreaming and start building with the neon-powered platform for modern founders.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-4 items-center">
