@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="fixed top-0 w-full z-50 bg-slate-900/60 backdrop-blur-xl">
       <div className="flex justify-between items-center px-6 py-4 max-w-7xl mx-auto">
         <div className="text-2xl font-black tracking-tighter text-white font-headline">
-          StartBox
+          StartnBox
         </div>
         
         <div className="hidden md:flex items-center gap-8">
