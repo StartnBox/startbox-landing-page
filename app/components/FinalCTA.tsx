@@ -43,7 +43,7 @@ export default function FinalCTA() {
     <section className="px-6 py-32 relative overflow-hidden">
       <div className="max-w-4xl mx-auto text-center relative z-10">
         <h2 className="font-headline text-4xl md:text-6xl font-extrabold tracking-tight mb-8">
-          Be among the first to launch your startup with <span className="text-gradient">StartBox</span>
+          Be among the first to launch your startup with <span className="text-gradient">StartnBox</span>
         </h2>
         
         <form onSubmit={handleSubmit} className="p-2 bg-slate-800/50 border border-slate-700/50 rounded-2xl flex flex-col sm:flex-row gap-2 max-w-xl mx-auto shadow-2xl">
