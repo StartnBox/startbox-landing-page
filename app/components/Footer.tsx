@@ -3,9 +3,9 @@ export default function Footer() {
     <footer className="w-full py-12 px-6 border-t border-slate-700/50 bg-black">
       <div className="flex flex-col md:flex-row justify-between items-center gap-8 max-w-7xl mx-auto">
         <div className="flex flex-col items-center md:items-start gap-4">
-          <div className="text-lg font-bold text-white font-headline">StartBox</div>
+          <div className="text-lg font-bold text-white font-headline">StartnBox</div>
           <p className="font-inter text-xs text-slate-400 tracking-wider uppercase">
-            © 2026 StartBox. The Neon Monolith Frontier.
+            © 2026 StartnBox. The Neon Monolith Frontier.
           </p>
         </div>
         
